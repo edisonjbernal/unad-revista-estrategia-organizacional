@@ -1,0 +1,4 @@
+Maqueta de página para la Revista Estrategia Organizacional de la UNAD, implementada por la ECACEN
+Puedes visitar la página en:
+
+http://hemeroteca.unad.edu.co/revista-estrategia-organizacional/
